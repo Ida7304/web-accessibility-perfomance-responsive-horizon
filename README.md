@@ -419,7 +419,7 @@ HTML-element
 CSS-selector / class
 → styrer styling og layout
 ```
-
+<!-- Opdaterede h2 i footer til h4 da det er afsluttende "overskrift" og derfor mindst vigtig af overskrifterne. Score = 74 -->
 ---
 
 # Opgave 7 – Gennemgå billedernes `alt`-attributter
@@ -465,7 +465,7 @@ alt=""
 ```
 
 normalt den enkleste og korrekte løsning.
-
+<!-- Givet billederne alt attributes. Score = 85 -->
 ---
 
 # Opgave 8 – Reparér de interne anchor-links

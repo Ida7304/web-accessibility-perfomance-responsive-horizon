@@ -489,7 +489,7 @@ Eksempel:
 Test alle tre navigationslinks.
 
 Kontrollér, at de fører til den korrekte sektion.
-<!-- Første link virker ikke. -->
+<!-- Første link har fået et id så det linker korrekt -->
 
 ## Gør også logoet til et link til forsiden
 
@@ -508,7 +508,7 @@ Eksempel:
 ### Accessibility-pointe
 
 Der er ikke behov for at tilføje `aria-label` til dette link, når den synlige linktekst allerede giver linket et meningsfuldt navn.
-
+<!-- Lavet logo til link. -->
 ---
 
 # Opgave 9 – Undersøg om links kan identificeres visuelt

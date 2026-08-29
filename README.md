@@ -629,7 +629,7 @@ min-height
 ```
 
 eller at lade indholdet bestemme højden.
-
+<!-- Tekst er stadig synlig men opsat sært. Tekst løber lidt ved siden af bokse. Noget af teksten og billederne overlapper og der opstår en smule vandret scroll. -->
 ---
 
 # Opgave 13 – Ryd op i CSS

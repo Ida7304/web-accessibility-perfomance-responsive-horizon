@@ -182,7 +182,7 @@ En titel bør kort beskrive både websitet og sidens vigtigste indhold.
 ```
 
 Formulér selv en passende titel til Horiseon.
-
+<!-- Score = 67 -->
 ---
 
 # Opgave 3 – Kontrollér dokumentets `<head>`
@@ -213,7 +213,7 @@ Viewport-indstillingen har betydning for:
 - responsive layouts
 - zoom
 - reflow
-
+<!-- Indsat meta name og content. Score = 71 -->
 ---
 
 # Opgave 4 – Forbedr den semantiske HTML

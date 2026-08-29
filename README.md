@@ -303,7 +303,7 @@ Efter din semantiske rettelse skal navigationen:
 - bevare de tre eksisterende links
 
 > Pointen er både at vælge korrekt HTML-semantik og at forstå, hvorfor en CSS-selector kun virker, når den matcher den faktiske HTML-struktur.
-
+<!-- Opdateret HTML tags med semantisk og CSS så elementerne registerers. Score 74 -->
 ---
 
 # Opgave 5 – Skab en logisk dokumentstruktur
@@ -325,6 +325,7 @@ Undersøg:
 - Kan siden forstås uden floats og visuel positionering?
 
 > HTML-koden skal give mening uafhængigt af den visuelle styling.
+<!-- Indholdet vises i den rigtige rækkefølge men det er svært at se, for mig er det zoomet helt ind og billederne er alt for store. -->
 
 ---
 

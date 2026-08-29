@@ -555,7 +555,7 @@ background-color
 ```
 
 Forsøg at bevare Horiseons visuelle identitet.
-
+<!-- Ændret baggrundsfarverne på benefits og de 3 segmenter under hero til en lidt mørkere blå. -->
 ---
 
 # Opgave 11 – Test siden med tastatur

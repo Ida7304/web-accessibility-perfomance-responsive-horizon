@@ -591,7 +591,7 @@ a:focus-visible {
 ```
 
 Tilpas løsningen til designet.
-
+<!-- Markeringen er tydelig ved brug af tab og alle links virker korrekt og kan vælges med tab, shift + tab og enter. -->
 ---
 
 # Opgave 12 – Test zoom, reflow og faste højder

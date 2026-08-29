@@ -508,7 +508,7 @@ Eksempel:
 ### Accessibility-pointe
 
 Der er ikke behov for at tilføje `aria-label` til dette link, når den synlige linktekst allerede giver linket et meningsfuldt navn.
-<!-- Lavet logo til link. -->
+<!-- Lavet logo til link. Score = 85 -->
 ---
 
 # Opgave 9 – Undersøg om links kan identificeres visuelt
@@ -530,7 +530,7 @@ Undersøg navigationen og vurder:
 - Er designet afhængigt af farve alene?
 
 > Det er ikke automatisk en accessibility-fejl at fjerne understregningen fra links i en tydelig navigation. Du skal vurdere linkets kontekst.
-
+<!-- Der er ingen visuel information om at det er et link andet end at cursor bliver pointy. For bedre accessibility bør der anvendes hover eller understregelse. De er til gengæld tydelige ved keyboard (brug af tab) -->
 ---
 
 # Opgave 10 – Test og forbedr farvekontrast

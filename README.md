@@ -489,6 +489,7 @@ Eksempel:
 Test alle tre navigationslinks.
 
 Kontrollér, at de fører til den korrekte sektion.
+<!-- Første link virker ikke. -->
 
 ## Gør også logoet til et link til forsiden
 

@@ -877,8 +877,8 @@ Kør Lighthouse med samme indstillinger som ved baseline.
 Notér:
 
 ```text
-Performance før: ______
-Performance efter: _____
+Performance før: 75
+Performance efter: 100
 ```
 
 ### Mål
@@ -888,6 +888,8 @@ Performance: 90 eller højere
 ```
 
 Hvis scoren fortsat er lav, skal du læse Lighthouse-anbefalingerne og undersøge, hvilke ressourcer der stadig påvirker siden.
+
+<!-- Hvis man vil optimere siden endnu mere kunne man rette billedernes størrelse så de ikke er større end der er behov for. Men med en score på 100, har jeg valgt ikke at gøre det denne gang. -->
 
 ---
 

@@ -866,6 +866,7 @@ lav filstørrelse
 +
 acceptabel billedkvalitet
 ```
+<!-- Jeg kan ikke se forskel på de 2 forskellige billede typer i min billedviser. De fremstår lige skarpe for mig. -->
 
 ---
 

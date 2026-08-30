@@ -677,7 +677,7 @@ kan eventuelt samles:
 Fjern ikke CSS alene, fordi du ikke forstår reglen.
 
 Undersøg først, hvilken funktion den har.
-
+<!-- Samlet selectors i CSS og opdateret størrelse og spacing i Nav. Score = 92 -->
 ---
 
 # DEL 2 – WEB PERFORMANCE
@@ -718,7 +718,7 @@ Brug samme indstillinger ved før- og eftermålingen.
 Notér:
 
 ```text
-Performance før optimering: ______
+Performance før optimering: 75
 ```
 
 > Performance-scoren kan variere lidt mellem målinger. Brug derfor samme browser, samme Lighthouse-indstillinger og så vidt muligt samme testforhold ved før- og eftermålingen.
@@ -769,9 +769,13 @@ Notér gerne resultaterne i en lille tabel.
 
 | Billede                            | Format | Dimensioner | Filstørrelse | Relevant at optimere? |
 | ---------------------------------- | ------ | ----------: | -----------: | --------------------- |
-| `search-engine-optimization.jpg`   |        |             |              |                       |
-| `online-reputation-management.jpg` |        |             |              |                       |
-| `social-media-marketing.jpg`       |        |             |              |                       |
+| `search-engine-optimization.jpg`   |   jpg     |       7360 x 4912      |     14,2 MB         |   Ja  |
+| `online-reputation-management.jpg` |   jpg     |       4404 x 2877      |     6,4  MB         |   Ja  |
+| `social-media-marketing.jpg`       |   jpg     |       5000 x 3451      |     13,6 MB         |   Ja  |
+| `lead-generation.png`              |   png     |       1000 x 1000      |     39,5 KB         |   Nej |
+| `digital-marketing-meeting.jpg`    |   jpg     |       8688 x 5792      |     13,5 MB         |   Ja  |
+| `cost-management.png`              |   png     |       1000 x 1000      |     40,1 KB         |   Nej |
+| `brand-awareness.png`              |   png     |       1000 x 1000      |     61,4 KB         |   Nej |
 
 ---
 

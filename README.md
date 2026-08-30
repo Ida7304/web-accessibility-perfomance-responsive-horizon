@@ -807,7 +807,7 @@ hvis filen `photo.webp` ikke eksisterer.
 3. Opdatér filreferencen
 4. Test i browseren
 ```
-
+<!-- Rettet jpg billederne til webp. Score = 84 -->
 ## Hjælp
 
 Du kan eksempelvis bruge:

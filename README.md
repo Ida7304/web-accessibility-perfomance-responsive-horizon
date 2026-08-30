@@ -807,7 +807,7 @@ hvis filen `photo.webp` ikke eksisterer.
 3. Opdatér filreferencen
 4. Test i browseren
 ```
-<!-- Rettet jpg billederne til webp. Score = 84 -->
+
 ## Hjælp
 
 Du kan eksempelvis bruge:
@@ -818,6 +818,8 @@ Du kan eksempelvis bruge:
 - et andet billedværktøj, der kan eksportere WebP
 
 Du behøver ikke bruge terminalen.
+
+<!-- Rettet jpg billederne til webp. Score = 84 -->
 
 ---
 
@@ -838,6 +840,8 @@ Hvis du optimerer hero-billedet, skal denne reference også opdateres.
 ### Kontrol
 
 Brug browserens **Network-panel** til at kontrollere, at den nye fil faktisk indlæses.
+
+<!-- Rettet CSS reference til webp så billedet indlæses. Score = 100 -->
 
 ---
 

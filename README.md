@@ -182,7 +182,9 @@ En titel bør kort beskrive både websitet og sidens vigtigste indhold.
 ```
 
 Formulér selv en passende titel til Horiseon.
-<!-- Score = 67 -->
+
+**Score = 67**
+
 ---
 
 # Opgave 3 – Kontrollér dokumentets `<head>`
@@ -213,7 +215,8 @@ Viewport-indstillingen har betydning for:
 - responsive layouts
 - zoom
 - reflow
-<!-- Indsat meta name og content. Score = 71 -->
+
+**Indsat meta name og content. Score = 71**
 ---
 
 # Opgave 4 – Forbedr den semantiske HTML
@@ -303,7 +306,9 @@ Efter din semantiske rettelse skal navigationen:
 - bevare de tre eksisterende links
 
 > Pointen er både at vælge korrekt HTML-semantik og at forstå, hvorfor en CSS-selector kun virker, når den matcher den faktiske HTML-struktur.
-<!-- Opdateret HTML tags med semantisk og CSS så elementerne registerers. Score 74 -->
+
+**Opdateret HTML tags med semantisk og CSS så elementerne registerers. Score 74**
+
 ---
 
 # Opgave 5 – Skab en logisk dokumentstruktur
@@ -325,7 +330,8 @@ Undersøg:
 - Kan siden forstås uden floats og visuel positionering?
 
 > HTML-koden skal give mening uafhængigt af den visuelle styling.
-<!-- Indholdet vises i den rigtige rækkefølge men det er svært at se, for mig er det zoomet helt ind og billederne er alt for store. -->
+
+**Indholdet vises i den rigtige rækkefølge men det er svært at se, for mig er det zoomet helt ind og billederne er alt for store.**
 
 ---
 
@@ -419,7 +425,8 @@ HTML-element
 CSS-selector / class
 → styrer styling og layout
 ```
-<!-- Opdaterede h2 i footer til h4 da det er afsluttende "overskrift" og derfor mindst vigtig af overskrifterne. Score = 74 -->
+**Opdaterede h2 i footer til h4 da det er afsluttende "overskrift" og derfor mindst vigtig af overskrifterne. Score = 74**
+
 ---
 
 # Opgave 7 – Gennemgå billedernes `alt`-attributter
@@ -465,7 +472,9 @@ alt=""
 ```
 
 normalt den enkleste og korrekte løsning.
-<!-- Givet billederne alt attributes. Score = 85 -->
+
+**Givet billederne alt attributes. Score = 85**
+
 ---
 
 # Opgave 8 – Reparér de interne anchor-links
@@ -489,7 +498,8 @@ Eksempel:
 Test alle tre navigationslinks.
 
 Kontrollér, at de fører til den korrekte sektion.
-<!-- Første link har fået et id så det linker korrekt -->
+
+**Første link har fået et id så det linker korrekt**
 
 ## Gør også logoet til et link til forsiden
 
@@ -508,7 +518,9 @@ Eksempel:
 ### Accessibility-pointe
 
 Der er ikke behov for at tilføje `aria-label` til dette link, når den synlige linktekst allerede giver linket et meningsfuldt navn.
-<!-- Lavet logo til link. Score = 85 -->
+
+**Lavet logo til link. Score = 85**
+
 ---
 
 # Opgave 9 – Undersøg om links kan identificeres visuelt
@@ -530,7 +542,9 @@ Undersøg navigationen og vurder:
 - Er designet afhængigt af farve alene?
 
 > Det er ikke automatisk en accessibility-fejl at fjerne understregningen fra links i en tydelig navigation. Du skal vurdere linkets kontekst.
-<!-- Der er ingen visuel information om at det er et link andet end at cursor bliver pointy. For bedre accessibility bør der anvendes hover eller understregelse. De er til gengæld tydelige ved keyboard (brug af tab) -->
+
+**Der er ingen visuel information om at det er et link andet end at cursor bliver pointy. For bedre accessibility bør der anvendes hover eller understregelse. De er til gengæld tydelige ved keyboard (brug af tab)**
+
 ---
 
 # Opgave 10 – Test og forbedr farvekontrast
@@ -555,7 +569,9 @@ background-color
 ```
 
 Forsøg at bevare Horiseons visuelle identitet.
-<!-- Ændret baggrundsfarverne på benefits og de 3 segmenter under hero til en lidt mørkere blå. Score = 85 (tror min har en fejl da den siger at en af sektionernes baggrundsfarve ikke har høj nok kontrast selvom den er magen til de andre sektioner?)-->
+
+**Ændret baggrundsfarverne på benefits og de 3 segmenter under hero til en lidt mørkere blå. Score = 85 (tror min har en fejl da den siger at en af sektionernes baggrundsfarve ikke har høj nok kontrast selvom den er magen til de andre sektioner?)**
+
 ---
 
 # Opgave 11 – Test siden med tastatur
@@ -591,7 +607,9 @@ a:focus-visible {
 ```
 
 Tilpas løsningen til designet.
-<!-- Markeringen er tydelig ved brug af tab og alle links virker korrekt og kan vælges med tab, shift + tab og enter. -->
+
+**Markeringen er tydelig ved brug af tab og alle links virker korrekt og kan vælges med tab, shift + tab og enter.**
+
 ---
 
 # Opgave 12 – Test zoom, reflow og faste højder
@@ -629,7 +647,9 @@ min-height
 ```
 
 eller at lade indholdet bestemme højden.
-<!-- Tekst er stadig synlig men opsat sært. Tekst løber lidt ved siden af bokse. Noget af teksten og billederne overlapper og der opstår en smule vandret scroll. -->
+
+**Tekst er stadig synlig men opsat sært. Tekst løber lidt ved siden af bokse. Noget af teksten og billederne overlapper og der opstår en smule vandret scroll.**
+
 ---
 
 # Opgave 13 – Ryd op i CSS
@@ -677,7 +697,9 @@ kan eventuelt samles:
 Fjern ikke CSS alene, fordi du ikke forstår reglen.
 
 Undersøg først, hvilken funktion den har.
-<!-- Samlet selectors i CSS og opdateret størrelse og spacing i Nav. Score = 92 -->
+
+**Samlet selectors i CSS og opdateret størrelse og spacing i Nav. Score = 92**
+
 ---
 
 # DEL 2 – WEB PERFORMANCE
@@ -819,7 +841,7 @@ Du kan eksempelvis bruge:
 
 Du behøver ikke bruge terminalen.
 
-<!-- Rettet jpg billederne til webp. Score = 84 -->
+**Rettet jpg billederne til webp. Score = 84**
 
 ---
 
@@ -841,7 +863,7 @@ Hvis du optimerer hero-billedet, skal denne reference også opdateres.
 
 Brug browserens **Network-panel** til at kontrollere, at den nye fil faktisk indlæses.
 
-<!-- Rettet CSS reference til webp så billedet indlæses. Score = 100 -->
+**Rettet CSS reference til webp så billedet indlæses. Score = 100**
 
 ---
 
@@ -866,7 +888,7 @@ lav filstørrelse
 +
 acceptabel billedkvalitet
 ```
-<!-- Jeg kan ikke se forskel på de 2 forskellige billede typer i min billedviser. De fremstår lige skarpe for mig. -->
+**Jeg kan ikke se forskel på de 2 forskellige billede typer i min billedviser. De fremstår lige skarpe for mig.**
 
 ---
 
@@ -889,7 +911,7 @@ Performance: 90 eller højere
 
 Hvis scoren fortsat er lav, skal du læse Lighthouse-anbefalingerne og undersøge, hvilke ressourcer der stadig påvirker siden.
 
-<!-- Hvis man vil optimere siden endnu mere kunne man rette billedernes størrelse så de ikke er større end der er behov for. Men med en score på 100, har jeg valgt ikke at gøre det denne gang. -->
+**Hvis man vil optimere siden endnu mere kunne man rette billedernes størrelse så de ikke er større end der er behov for. Men med en score på 100, har jeg valgt ikke at gøre det denne gang.**
 
 ---
 
@@ -953,6 +975,11 @@ Undersøg:
 - Opstår vandret scrolling?
 
 Dokumentér mindst tre problemer.
+
+**1) Teksten overlapper billeder på mindre skærme**
+**2) Indholdet i siden bliver skubbet under alt andet indhold på mindre skærme**
+**3) Selv når resten af indholdet står fint, flytter navigationsbaren sig en linje under hvor den bør stå**
+**4) Benefits-kolonnen bliver smal**
 
 ---
 
@@ -1642,43 +1669,43 @@ Besvar kort:
 
 ## DEL 1 – Web Accessibility
 
-- [ ] Accessibility-baseline er dokumenteret.
-- [ ] `<title>` er beskrivende.
-- [ ] `<meta name="viewport">` er tilføjet.
-- [ ] Semantisk HTML er anvendt.
-- [ ] Rene layout-wrappers bruger et passende neutralt element, fx `<div>`.
-- [ ] Eksisterende CSS-selectors er kontrolleret og tilpasset efter semantiske HTML-ændringer.
-- [ ] Navigationen bruger et passende semantisk HTML-element.
-- [ ] Navigationen vises uden bullets og med horisontale menupunkter på større skærme.
-- [ ] Dokumentstrukturen er logisk.
-- [ ] Headingstrukturen er logisk.
-- [ ] Informative billeder har relevante `alt`-tekster.
-- [ ] Dekorative billeder bruger `alt=""`.
-- [ ] Anchor-links fungerer.
-- [ ] Horiseon-logoet fungerer som link til `index.html`.
-- [ ] Links kan identificeres.
-- [ ] Farvekontrast er kontrolleret.
-- [ ] Tastaturtest er gennemført.
-- [ ] Keyboard-fokus er tydeligt.
-- [ ] Siden er testet ved 200 % zoom.
-- [ ] Faste højder er vurderet.
-- [ ] CSS er ryddet op.
-- [ ] HTML er valideret.
-- [ ] Lighthouse Accessibility er kørt igen.
+- [X] Accessibility-baseline er dokumenteret.
+- [X] `<title>` er beskrivende.
+- [X] `<meta name="viewport">` er tilføjet.
+- [X] Semantisk HTML er anvendt.
+- [X] Rene layout-wrappers bruger et passende neutralt element, fx `<div>`.
+- [X] Eksisterende CSS-selectors er kontrolleret og tilpasset efter semantiske HTML-ændringer.
+- [X] Navigationen bruger et passende semantisk HTML-element.
+- [X] Navigationen vises uden bullets og med horisontale menupunkter på større skærme.
+- [X] Dokumentstrukturen er logisk.
+- [X] Headingstrukturen er logisk.
+- [X] Informative billeder har relevante `alt`-tekster.
+- [X] Dekorative billeder bruger `alt=""`.
+- [X] Anchor-links fungerer.
+- [X] Horiseon-logoet fungerer som link til `index.html`.
+- [X] Links kan identificeres.
+- [X] Farvekontrast er kontrolleret.
+- [X] Tastaturtest er gennemført.
+- [X] Keyboard-fokus er tydeligt.
+- [X] Siden er testet ved 200 % zoom.
+- [X] Faste højder er vurderet.
+- [X] CSS er ryddet op.
+- [] HTML er valideret.
+- [X] Lighthouse Accessibility er kørt igen.
 - [ ] Accessibility-score er 100.
 
 ## DEL 2 – Web Performance
 
-- [ ] Performance-baseline er dokumenteret.
-- [ ] Billeddimensioner er undersøgt.
-- [ ] Filstørrelser er undersøgt.
-- [ ] Relevante billeder er konverteret til WebP.
-- [ ] HTML-referencer er opdateret.
-- [ ] Hero-billedets CSS-reference er kontrolleret.
-- [ ] Billedkvalitet er vurderet.
-- [ ] Network-panelet er anvendt til kontrol.
-- [ ] Lighthouse Performance er kørt igen.
-- [ ] Performance-score er 90 eller højere.
+- [X] Performance-baseline er dokumenteret.
+- [X] Billeddimensioner er undersøgt.
+- [X] Filstørrelser er undersøgt.
+- [X] Relevante billeder er konverteret til WebP.
+- [X] HTML-referencer er opdateret.
+- [X] Hero-billedets CSS-reference er kontrolleret.
+- [X] Billedkvalitet er vurderet.
+- [X] Network-panelet er anvendt til kontrol.
+- [X] Lighthouse Performance er kørt igen.
+- [X] Performance-score er 90 eller højere.
 
 ## DEL 3 – Responsive Webdesign
 

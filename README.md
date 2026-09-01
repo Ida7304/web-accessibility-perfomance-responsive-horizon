@@ -1296,6 +1296,8 @@ Du skal altså ikke forsøge at løse hele siden med én enkelt flex-container.
 
 I de næste opgaver arbejder du videre med `.marketing` og `aside.benefits`.
 
+**Indsatte de relevante CSS stykker angivet i opgaven**
+
 ---
 
 # Opgave 24 – Organisér `.marketing` med Flexbox

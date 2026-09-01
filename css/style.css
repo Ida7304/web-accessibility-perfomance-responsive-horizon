@@ -65,6 +65,18 @@ p {
     background-position: center;
 }
 
+main.content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+    gap: 1.2rem;
+}
+
+main.content > h1 {
+    flex-basis: 100%;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;

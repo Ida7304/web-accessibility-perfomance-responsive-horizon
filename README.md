@@ -1576,6 +1576,8 @@ flex-wrap
 
 eller ændring af `flex-direction` kan være relevant.
 
+**Dette er testet og rettet til med media max-width**
+
 ---
 
 # Opgave 28 – Sammenlign med referencebilledet og gennemfør afsluttende responsive test

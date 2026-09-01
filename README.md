@@ -1629,6 +1629,8 @@ Test også ved:
 200 % zoom
 ```
 
+**Alt er testet med media og desktop-tools. Jeg kan ikke sammenligne med reference billedet, da jeg ikke kan åbne filen og har derfor måtte gætte mig frem/selv vurdere et layout der giver mening på mindre skærme. Det fungerer også ved 200% zoom og har ingen unødvendig scroll**
+
 ---
 
 # Opgave 29 – Afsluttende Lighthouse-test

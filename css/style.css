@@ -77,6 +77,16 @@ main.content > h1 {
     flex-basis: 100%;
 }
 
+.marketing {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+
+.services {
+    flex: 1;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;

@@ -1665,19 +1665,51 @@ Besvar kort:
 
 2. Hvilke accessibility-problemer fandt Lighthouse?
 
-**
+**Der var problemer med kontrast på baggrundsfarve, manglende "alt" atributter, manglende semantiske tags**
 
 3. Hvilke accessibility-problemer krævede manuel kontrol?
+
+**Læsbarhed ved zoom, keyboard kontrol, fokus-markering og rækkefølgen på navigation**
+
 4. Hvilke semantiske HTML-ændringer foretog du?
+
+**Jeg erstattede div-tags med main, section, aside og footer**
+
 5. Hvilke CSS-regler blev overflødige efter HTML-ændringerne?
+
+**Det var unødvendigt at skrive f.eks. "benefit-brand, benefit-cost osv. hver for sig, da de brugte samme styling og kunne samles under 1**
+
 6. Hvad var Performance-score før og efter?
+
+**Performance scoren startede på 75 og sluttede på 100**
+
 7. Hvilke billeder optimerede du?
+
+**Jeg optimerede alle jpg billeder til webp. Jeg testede også med png, men performances scoren blev værre af det så jeg beholdte dem som png.**
+
 8. Hvor meget blev filstørrelserne reduceret?
+
+**digital-marketing-meeting blev reduceret med 4,1 MB, online-reputation-management blev reduceret med 3,3 MB og search-engine-optimization blev reduceret med 5,5 MB**
+
 9. Hvilke elementer gjorde du til flex-containere?
+
+**header, main.content, marketing og aside.benefits og det tilsvarende i media**
+
 10. Hvilke gamle floats kunne fjernes?
+
+**Alle floats på de før-nævnte elementer kunne fjernes**
+
 11. Hvilket breakpoint valgte du, og hvorfor valgte du netop dette?
+
+**Jeg startede med 768px da opgaven beskrev det, men tilføjede et ekstra ved 500px, da det var ca. der jeg opdagede at skærm-layoutet blev ulæseligt igen**
+
 12. Hvordan ændrer layoutet sig på en mobil skærm?
+
+**Benefits kommer til at være bredere og stå under services, mens billederne i services ikke nødvendigvis står til højre eller venstre men i stedet står over teksten**
+
 13. Hvad sker der ved 200 % zoom?
+
+**Den får samme layout som mine media fremfor den standard desktop**
 
 ---
 
@@ -1708,7 +1740,7 @@ Besvar kort:
 - [X] CSS er ryddet op.
 - [] HTML er valideret.
 - [X] Lighthouse Accessibility er kørt igen.
-- [ ] Accessibility-score er 100.
+- [X] Accessibility-score er 100.
 
 ## DEL 2 – Web Performance
 
@@ -1725,22 +1757,22 @@ Besvar kort:
 
 ## DEL 3 – Responsive Webdesign
 
-- [ ] Layoutet er analyseret i Device Toolbar.
-- [ ] Headeren anvender et passende Flexbox-layout.
-- [ ] Hovedindholdet anvender et passende Flexbox-layout.
-- [ ] Overflødige floats er fjernet.
-- [ ] Billeder er responsive.
-- [ ] Problematiske faste størrelser er vurderet.
-- [ ] Der er tilføjet ét relevant CSS breakpoint med en media query (flere er tilladt, hvis de faktisk er nødvendige).
-- [ ] Navigationen fungerer på små skærme.
-- [ ] Siden er testet ved 320 px.
-- [ ] Siden er testet ved 480 px.
-- [ ] Siden er testet ved 768 px.
-- [ ] Siden er testet ved 1024 px.
-- [ ] Siden er testet ved 1440 px.
-- [ ] Der er ingen unødvendig vandret scrolling.
-- [ ] Siden fungerer ved 200 % zoom.
-- [ ] Resultatet er sammenlignet med referencebilledet.
+- [X] Layoutet er analyseret i Device Toolbar.
+- [X] Headeren anvender et passende Flexbox-layout.
+- [X] Hovedindholdet anvender et passende Flexbox-layout.
+- [X] Overflødige floats er fjernet.
+- [X] Billeder er responsive.
+- [X] Problematiske faste størrelser er vurderet.
+- [X] Der er tilføjet ét relevant CSS breakpoint med en media query (flere er tilladt, hvis de faktisk er nødvendige).
+- [X] Navigationen fungerer på små skærme.
+- [X] Siden er testet ved 320 px.
+- [X] Siden er testet ved 480 px.
+- [X] Siden er testet ved 768 px.
+- [X] Siden er testet ved 1024 px.
+- [X] Siden er testet ved 1440 px.
+- [X] Der er ingen unødvendig vandret scrolling.
+- [X] Siden fungerer ved 200 % zoom.
+- [] Resultatet er sammenlignet med referencebilledet.
 
 ---
 

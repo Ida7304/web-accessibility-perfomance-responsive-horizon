@@ -1641,8 +1641,8 @@ Registrér:
 
 | Måling        | Før | Efter |
 | ------------- | --: | ----: |
-| Accessibility |     |       |
-| Performance   |     |       |
+| Accessibility |67|100|
+| Performance   |75|100|
 
 ### Målsætning
 
@@ -1660,7 +1660,13 @@ Responsive webdesign vurderes manuelt med Device Toolbar og zoom-test.
 Besvar kort:
 
 1. Hvad var Accessibility-score før og efter?
+
+**Accessibility startede på 67 og endte på 100**
+
 2. Hvilke accessibility-problemer fandt Lighthouse?
+
+**
+
 3. Hvilke accessibility-problemer krævede manuel kontrol?
 4. Hvilke semantiske HTML-ændringer foretog du?
 5. Hvilke CSS-regler blev overflødige efter HTML-ændringerne?

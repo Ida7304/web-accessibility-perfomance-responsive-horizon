@@ -1545,6 +1545,8 @@ Under breakpointet
 
 Hvis ét breakpoint løser problemerne tilfredsstillende, er det nok.
 
+**Tilføjet 2 media breakpoints. 1 ved 768px og 1 ved 500px**
+
 ---
 
 # Opgave 27 – Test navigationen på små skærme

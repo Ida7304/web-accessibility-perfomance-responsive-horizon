@@ -1072,6 +1072,8 @@ Efter ændringen skal navigationen på større skærme fortsat:
 - have passende afstand mellem links
 - kunne bruges med tastatur
 
+**Tilføjet det ovengivne CSS, men float-right er stadig nødvendig**
+
 ---
 
 # Opgave 22 – Organisér hovedindholdet før du bruger Flexbox

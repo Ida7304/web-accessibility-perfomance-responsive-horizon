@@ -1738,7 +1738,7 @@ Besvar kort:
 - [X] Siden er testet ved 200 % zoom.
 - [X] Faste højder er vurderet.
 - [X] CSS er ryddet op.
-- [] HTML er valideret.
+- [X] HTML er valideret.
 - [X] Lighthouse Accessibility er kørt igen.
 - [X] Accessibility-score er 100.
 
